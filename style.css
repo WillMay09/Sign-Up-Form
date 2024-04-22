@@ -44,3 +44,18 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: bold;
 
 }
+
+.row{
+display:flex;
+gap: 60px;
+margin-bottom: 30px;
+
+}
+
+.row div{
+
+margin: 0px 30px;
+
+}
+
+
