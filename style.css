@@ -36,8 +36,9 @@ margin: 10px;
 
 }
 
-.intro{
+.main-container p{
 
+margin: 50px 15px;
 font-size: 25px;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: bold;
