@@ -1,0 +1,45 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body{
+display:flex;
+
+
+}
+
+
+.container img{
+
+width: 35vw;
+height:100vh;
+border:  5px black solid;
+border-radius: 5px;
+
+}
+
+main{
+
+display:flex;
+flex-direction: column;
+justify-content: center;
+
+
+}
+.main-container{
+
+margin: 10px;
+
+
+}
+
+.intro{
+
+font-size: 25px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+
+}
