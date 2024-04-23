@@ -26,6 +26,7 @@ main{
 display:flex;
 flex-direction: column;
 justify-content: center;
+background-color: whitesmoke;
 
 
 }
@@ -34,7 +35,10 @@ justify-content: center;
 margin: 10px;
 
 
+
 }
+
+
 
 .main-container p{
 
@@ -42,6 +46,34 @@ margin: 50px 15px;
 font-size: 25px;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: bold;
+
+}
+
+.main-container button{
+
+border-radius: 5px;
+background-color: #596D48;
+color: white;
+margin: 0px 30px;
+padding: 5px 30px;
+font-size: medium;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+}
+
+form{
+
+
+background-color: white;
+
+
+}
+
+form h3{
+
+margin: 20px 30px;
 
 }
 
@@ -53,7 +85,8 @@ margin-bottom: 30px;
 }
 
 .row div{
-
+display: flex;
+flex-direction: column;
 margin: 0px 30px;
 
 }
